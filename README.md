@@ -1,6 +1,7 @@
 # Incomplete-multi-view-datasets
-## One complete: A view is complete and other views random miss 10%-70%.
-## Random miss : All views random miss.
+
+-One complete: A view is complete and other views randomly miss 10%-70%.
+-Random miss : All views randomly miss.
 ---
 100Leaves.mat
 
