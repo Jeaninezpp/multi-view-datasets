@@ -45,4 +45,4 @@ WebKB.mat
   doi={10.1109/TKDE.2020.3045770}}
 ```
 
-Any problems, please contanct <zhangpei@nudt.edu.cn>.
+Any problems, please contanct <zhangpei@nudt.edu.cn>
