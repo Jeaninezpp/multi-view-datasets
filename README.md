@@ -1,6 +1,7 @@
 # multi-view-datasets
 
-链接: https://pan.baidu.com/s/17fLfSyWxlXKh8vmiS3ZcRg 提取码: bf7a 
+link: https://pan.baidu.com/s/17fLfSyWxlXKh8vmiS3ZcRg 
+code: bf7a 
 
 ---
 
@@ -43,3 +44,5 @@ WebKB.mat
   pages={1-1},
   doi={10.1109/TKDE.2020.3045770}}
 ```
+
+Any problems, please contanct <zhangpei@nudt.edu.cn>.
