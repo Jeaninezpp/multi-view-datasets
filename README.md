@@ -5,12 +5,14 @@
 ---
 
 # Incomplete-multi-view-datasets
+## Setting
 
 One complete: A view is complete and other views randomly miss 10%-70%.
 
 Random miss : All views randomly miss.
 
----
+## Datesets
+
 100Leaves.mat
 
 bbcsport4vbigRnSp.mat
