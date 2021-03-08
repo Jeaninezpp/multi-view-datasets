@@ -28,3 +28,7 @@ orlRnSp.mat
 
 WebKB.mat
 
+---
+```
+@ARTICLE{9298842,  author={P. {Zhang} and X. {Liu} and J. {Xiong} and S. {Zhou} and W. {Zhao} and E. {Zhu} and Z. {Cai}},  journal={IEEE Transactions on Knowledge and Data Engineering},   title={Consensus One-step Multi-view Subspace Clustering},   year={2020},  volume={},  number={},  pages={1-1},  doi={10.1109/TKDE.2020.3045770}}
+```
