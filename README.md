@@ -1,23 +1,3 @@
-# multi-view-datasets
-
-link: https://pan.baidu.com/s/17fLfSyWxlXKh8vmiS3ZcRg 
-code: bf7a 
-
----
-
-```
-@ARTICLE{9298842,
-  author={P. {Zhang} and X. {Liu} and J. {Xiong} and S. {Zhou} and W. {Zhao} and E. {Zhu} and Z. {Cai}},
-  journal={IEEE Transactions on Knowledge and Data Engineering}, 
-  title={Consensus One-step Multi-view Subspace Clustering}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TKDE.2020.3045770}}
-```
----
-
 # Incomplete-multi-view-datasets
 ## Setting
 
@@ -43,6 +23,26 @@ Random miss : All views randomly miss.
   pages={5755}}
 ```
 
+---
+
+# multi-view-datasets
+
+link: https://pan.baidu.com/s/17fLfSyWxlXKh8vmiS3ZcRg 
+code: bf7a 
+
+---
+
+```
+@ARTICLE{9298842,
+  author={P. {Zhang} and X. {Liu} and J. {Xiong} and S. {Zhou} and W. {Zhao} and E. {Zhu} and Z. {Cai}},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Consensus One-step Multi-view Subspace Clustering}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TKDE.2020.3045770}}
+```
 ---
 
 
